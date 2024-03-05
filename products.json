@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Orange Long Sleeve",
+        "description": "Clementine colored long sleeve T-shirt",
+        "price": "$30",
+        "categories": ["clothing", "tops", "women's"]
+    },
+    {
+        "name": "Orange Socks",
+        "description": "Bright orange colored crew socks",
+        "price": "$8",
+        "categories": ["clothing", "accessories"]
+    },
+    {
+        "name": "Yellow T-Shirt",
+        "description": "Mustard yellow cotton t-shirt",
+        "price": "$20",
+        "categories": ["clothing", "men's"]
+    },
+    {
+        "name": "Yellow Pants",
+        "description": "Baby yellow capri pants",
+        "price": "$45",
+        "categories": ["clothing", "bottoms", "women's"]
+    },
+    {
+        "name": "Abstract Necklace",
+        "description": "Real gold necklace in a unique design",
+        "price": "$200",
+        "categories": ["accessories"]
+    },
+    {
+        "name": "Sparkle Star Earrings",
+        "description": "Gold sparkled, star-shaped earrings",
+        "price": "$45",
+        "categories": ["accessories"]
+    },
+    {
+        "name": "Orange Beanie",
+        "description": "Bright orange beanie hat",
+        "price": "$20",
+        "categories": ["accessories"]
+    },
+    {
+        "name": "Red Shirt",
+        "description": "Kid's red t-shirt",
+        "price": "$15",
+        "categories": ["clothing", "kid's"]
+    },
+    {
+        "name": "Pink Sweater",
+        "description": "Kid's cozy pink sweater",
+        "price": "$20",
+        "categories": ["clothing", "kid's"]
+    },
+    {
+        "name": "Maroon Collared Shirt",
+        "description": "Burgandy shirt with polka dots",
+        "price": "$35",
+        "categories": ["clothing", "tops", "men's"]
+    }
+]
